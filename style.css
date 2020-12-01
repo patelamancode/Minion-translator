@@ -29,6 +29,10 @@ textarea{
     display: block;
     background-color: rgba(212, 214, 57, 0.87);
     margin-top: 5rem;
+    font-size: 200%;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+
 
 }
 ::placeholder{
@@ -64,6 +68,12 @@ button{
     display: block;
     margin-top: 1rem;
     background-color: rgba(212, 214, 57, 0.87);
+
+}
+#output-txt{
+    font-size: 200%;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
 }
 /* footer */
 footer{
